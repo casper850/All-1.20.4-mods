@@ -5,7 +5,7 @@ I Have Included All The Fabric Mods Required However Essential (MOD USED TO JOIN
 IMPORTANT INFO TO NOTE
 I Have Also Included The Fabric Installer So Make Sure You Follow The Steps
 
-IMPORTANT  --  IMPORTANT -- IMPORTANT \/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/ IMPORTANT  --  IMPORTANT -- IMPORTANT
+IMPORTANT  --  IMPORTANT -- IMPORTANT                                                                                           IMPORTANT  --  IMPORTANT -- IMPORTANT
 Before Following The Steps Look Through The Page And Find Fabric Installer 1.0.0 Make Sure It Says 1.20.4 As The Version Then Press Install Now Follow the Next Steps
 
 1. Place All Mods Into Your Mods Folder - If You Don't have One make One - If You Don't Know Where The Mods Folder Is Located Or How To Make It Follow The Next Steps
@@ -19,11 +19,11 @@ Before Following The Steps Look Through The Page And Find Fabric Installer 1.0.0
 
 
 
-Copy Me \/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+Copy Me 
 
 https://downloads.essential.gg/v1/mods/essential/container/updates/stable/fabric_1-20-4?action=download
 
-Copy Me /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+Copy Me 
 
 
 
